@@ -14,4 +14,4 @@ Caso queria falar com o **Professor Alfredo**, envie um e-mail para `gold@ime.us
 
 ### Versões anteriores
 
-Temos bastante material e referências de outros oferecimentos desse curso. Você pode consultar: https://phrb.github.io/MAC5742-0219/, para ter acesso à materiais e até mesmo as aulas, que foram todas gravadas!
+Temos bastante material e referências de outros oferecimentos desse curso. Você pode consultar: [https://phrb.github.io/MAC5742-0219/], para ter acesso à materiais e até mesmo as aulas, que foram todas gravadas!
