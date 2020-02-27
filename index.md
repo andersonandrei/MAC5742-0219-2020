@@ -11,7 +11,7 @@ discutidos em aula.
 ## Contato
 
 O  professor do  curso  é o  Alfredo  (*gold@ime.usp.br*), e  os  monitores são  o
-Anderson    Andrei    (*anderson.andrei.silva@usp.br*)    e    o    Pedro    Bruel
+Anderson      Andrei      (*anderson.andrei.silva@usp.br*)     e      o      Pedro
 (*phrb@ime.usp.br*). Fique à vontade para entrar em contato!
 
 
