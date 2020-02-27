@@ -1,0 +1,18 @@
+#+STARTUP: overview indent inlineimages logdrawer
+#+OPTIONS: toc:nil TeX:t LaTeX:t
+#+LANGUAGE: es
+
+* Lista de Aulas
+Aqui você encontra /links/ para os /slides/ apresentados em aula, e também para todo
+o material complementar discutido em sala,  como livros, /sites/, vídeos, e demais
+recursos.
+
+#+TOC: headlines 2
+
+** Aula 1 - Introdução <2020-03-02 Mon>
+- [[http://cacm.acm.org/magazines/2017/1/211094-exponential-laws-of-computing-growth/fulltext][Exponential Laws of Computing Growth]]
+- [[https://www.karlrupp.net/2015/06/40-years-of-microprocessor-trend-data/][40 Years of Microprocessor Trend Data]]
+
+** Aula 2 - Arquitetura de Computadores <2020-03-04 Wed>
+- [[https://www.top500.org/][Top500 Supercomputer List]]
+- [[https://golem.ph.utexas.edu/category/2015/01/mathematics_and_magic_the_de_b.html][The de Bruijn Card Trick]]
