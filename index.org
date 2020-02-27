@@ -17,5 +17,5 @@ Anderson      Andrei      (/anderson.andrei.silva@usp.br/)     e      o      Ped
 Você  pode acessar  a  [[https://phrb.github.io/MAC5742-0219/][página do  curso  de  2017]] e  consultar  todo o  material
 utilizado.  Você pode até assistir algumas das aulas gravadas em vídeo.
 *** Curso Atual
-- Aulas (/em breve!/)
+- [[file:./aulas.html][Aulas]]
 - EPs (/em breve!/)

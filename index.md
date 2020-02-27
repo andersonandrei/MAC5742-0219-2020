@@ -26,5 +26,5 @@ utilizado.  Você pode até assistir algumas das aulas gravadas em vídeo.
 
 ### Curso Atual
 
--   Aulas (*em breve!*)
+-   [Aulas](./aulas.html)
 -   EPs (*em breve!*)
