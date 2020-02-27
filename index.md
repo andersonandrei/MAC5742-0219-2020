@@ -1,0 +1,30 @@
+
+
+# Introdução à Programação Concorrente, Paralela e Distribuída
+
+Olá! Este  é o site  dos cursos MAC5742 -  *Introdução à Computação  Paralela e
+Distribuída*  e MAC0219  - *Programação  Concorrente e  Paralela*. Aqui  você vai
+encontrar links para os slides das aulas, EPs, bibliografia e demais materiais
+discutidos em aula.
+
+
+## Contato
+
+O  professor do  curso  é o  Alfredo  (*gold@ime.usp.br*), e  os  monitores são  o
+Anderson    Andrei    (*anderson.andrei.silva@usp.br*)    e    o    Pedro    Bruel
+(*phrb@ime.usp.br*). Fique à vontade para entrar em contato!
+
+
+## Conteúdo
+
+
+### Curso de 2017
+
+Você  pode acessar  a  [página do  curso  de  2017](https://phrb.github.io/MAC5742-0219/) e  consultar  todo o  material
+utilizado.  Você pode até assistir algumas das aulas gravadas em vídeo.
+
+
+### Curso Atual
+
+-   Aulas (*em breve!*)
+-   EPs (*em breve!*)
