@@ -9,10 +9,10 @@ recursos.
 
 #+TOC: headlines 2
 
-** Aula 1 - Introdução <2020-03-02 Mon>
+** Aula 1 - Introdução (02/03/2020)
 - [[http://cacm.acm.org/magazines/2017/1/211094-exponential-laws-of-computing-growth/fulltext][Exponential Laws of Computing Growth]]
 - [[https://www.karlrupp.net/2015/06/40-years-of-microprocessor-trend-data/][40 Years of Microprocessor Trend Data]]
 
-** Aula 2 - Arquitetura de Computadores <2020-03-04 Wed>
+** Aula 2 - Arquitetura de Computadores (04/03/2020)
 - [[https://www.top500.org/][Top500 Supercomputer List]]
 - [[https://golem.ph.utexas.edu/category/2015/01/mathematics_and_magic_the_de_b.html][The de Bruijn Card Trick]]

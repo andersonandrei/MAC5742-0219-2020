@@ -18,4 +18,5 @@ Você  pode acessar  a  [[https://phrb.github.io/MAC5742-0219/][página do  curs
 utilizado.  Você pode até assistir algumas das aulas gravadas em vídeo.
 *** Curso Atual
 - [[file:./aulas.html][Aulas]]
-- EPs (/em breve!/)
+- EPs (/em breve/)
+- Critérios de Avaliação (/em breve/)
