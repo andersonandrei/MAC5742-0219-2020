@@ -12,76 +12,6 @@ O  professor do  curso  é o  Alfredo  (/gold@ime.usp.br/), e  os  monitores sã
 Anderson      Andrei      (/anderson.andrei.silva@usp.br/)     e      o      Pedro
 (/phrb@ime.usp.br/). Fique à vontade para entrar em contato!
 
-** Método de Avaliação
-Para a avaliação desse curso, contaremos com *EPs*, *MiniEPs* e *Seminários e Monografias*. Que serão ao todo:
-
-- 3 EPs,
-- 10 MiniEPs,
-- 1 Seminário.
-
-Também gostaríamos de ser avaliados por vocês durante o curso, para sabermos mais sobre o que vocês estão achando do andamento do curso.
-Faremos questionários frequentes através dos quais vocês vão poder nos avaliar e dar a sua opinião sobre o andamento do curso.
-
-*** EPs
-
-Serão enunciados 3 EPs, que são tarefas mais longas, a fim de abordar uma maior parte do conteúdo passado em aula. Essas tarefas serão
-realizadas em grupos de 4 pessoas e suas entregas deverão incluir:
-- Código fonte com a solução do problema proposto,
-- Um relatório detalhando e explicando a solução e os resultados encontrados,
-- Uma apresentação em slides que resuma o relatório.
-
-Na data da entrega, serão sorteados 5 grupos, para que apresentem suas soluções, durante 5 à 10 minutos, utilizando a apresentação em slides entregue.
-
-*** Mini-EPs 
-
-Serão enunciados 10 Mini-EPs, que são tarefas menores, a fim de abordar temas recentemente passados em aula e estimular a aprendizem
-e a prática dos conteúdos. Estas tarefas também serão realizadas e entregues em grupos contendo 4 alunos, e deverão incluir:
-- Código fonte com a solução do problema proposto.
-
-*** Seminários e Monografias
-
-Também em grupos de 4 alunos, iremos disponibilizar uma lista de temas e datas para serem escolhidos por cada grupo, por ordem de 
-"chegada". Cada grupo deverá preparar uma monografia e uma apresentação sobre o tema escolhido. Todos os grupos apresentarão, em suas
-respectivas datas. Para esta tarefas deverão ser entregues:
-
-- Uma monografia sobre o tema,
-- Uma apresentação em slides que resuma a monografia.
-
-*** Cálculo da Nota Final
-
-As notas dos mini-EPs  ($N_{m}$), dos EPs ($M_{EP}$) e dos Seminários e Monografias ($M_{SM}$) serão usadas
-no cômputo da  nota final ($M_{F}$). Para  ter aprovação no curso  é necessário ter
-nota final  $M_{F} >= 5.0$, mas  também é *necessário ter  média de provas /e/  de EPs
-maior que 4.0*.
-
-*** Notas dos mini-EPs ($N_{m}$)
-
-Os mini-EPS têm *correção binária*, isto é, valem ou $1$, ou $0$.  Assim, $N_{m}$ é a
-soma das notas dos mini-EPs, dada por:
-
-\[
-N_{m} = n_{EP1} + n_{EP2} + \dots + n_{EPn}
-\]
-
-Onde   $n_{EP1,2,\dots}$  são   as  notas   dos  mini-EPs,   e  $n$   é  o   número  de
-mini-EPS, e $n$ = 10.
-
-
-*** Notas dos Seminários e Monografias ($M_{SM}$)
-
-Os Seminários e Monografias serão avaliados em uma única nota ($M_{SM}$).
-
-*** Médias de EPs ($M_{EP}$)
-A média dos EPs ($M_{EP}$) é dada por:
-\[
-M_{EP} = (E_1 + E_2 + E_3) / 3
-\]
-
-*** Média Final ($M_{F}$)
-A média final $M_{F}$ é calculada da seguinte forma
-
-M_{F} = (($N_{m}$) + 2*($M_{EP}$) + 2*($M_{SM}$)) / 5
-
 ** Conteúdo
 *** Curso de 2017
 Você  pode acessar  a  [[https://phrb.github.io/MAC5742-0219/][página do  curso  de  2017]] e  consultar  todo o  material
@@ -89,4 +19,4 @@ utilizado.  Você pode até assistir algumas das aulas gravadas em vídeo.
 *** Curso Atual
 - [[file:./aulas.html][Aulas]]
 - EPs (/em breve/)
-- Critérios de Avaliação (/em breve/)
+- [[file:criterios.html][Critérios de Avaliação]]

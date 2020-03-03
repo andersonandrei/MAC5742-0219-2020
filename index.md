@@ -28,4 +28,4 @@ utilizado.  Você pode até assistir algumas das aulas gravadas em vídeo.
 
 -   [Aulas](./aulas.html)
 -   EPs (*em breve*)
--   Critérios de Avaliação (*em breve*)
+-   [Critérios de Avaliação](criterios.html)
