@@ -1,5 +1,6 @@
 #+STARTUP: overview indent inlineimages logdrawer
 #+OPTIONS: toc:nil TeX:t LaTeX:t
+#+LANGUAGE: es
 
 * Método de Avaliação
 A avaliação  neste  curso  será através de /EPs/,  /MiniEPs/  e /Seminários/ e
@@ -13,6 +14,8 @@ Também   gostaríamos  de   ser  avaliados   por   vocês  durante   o  curso, 
 disponibilizaremos alguns  questionários através dos  quais vocês vão  poder nos
 avaliar e sugerir mudanças no curso.
 
+#+TOC: headlines 2
+
 ** EPs
 Teremos 3 EPs, ou tarefas mais longas,  a fim de aprofundar o conteúdo discutido
 em aula.   Os EPs serão feitos  em grupos de  4 pessoas e suas  entregas deverão
@@ -25,6 +28,12 @@ incluir:
 Na data da  entrega, 5 grupos serão sorteados para  apresentar suas soluções por
 10 minutos, utilizando a apresentação em slides entregue.
 
+*** Médias de EPs (/Mep/)
+A média dos EPs /Mep/ é dada por:
+
+/Mep = (EP_1 + EP_2 + EP_3) / 3/
+
+
 ** Mini-EPs
 Teremos 10 MiniEPs, ou tarefas  menores, abordando temas recentemente discutidos
 em  aula.  Essas  tarefas também  serão realizadas  e entregues  em grupos  de 4
@@ -32,6 +41,14 @@ pessoas, e deverão incluir:
 
 - Código fonte com a solução do problema proposto
 - Um relatório detalhando e explicando a solução e os resultados encontrados
+
+*** Notas dos mini-EPs (/Mm/)
+Os mini-EPS têm *correção binária*, isto é, valem ou  1, ou 0.  A nota /Mm/ é a soma
+das notas dos mini-EPs, dada por:
+
+Mm = NmEP1 + ... + NmEP10
+
+Onde /NmEP(1,...,10)/ são as notas dos mini-EPs.
 
 ** Seminários e Monografias
 Também em grupos de  4 alunos, iremos disponibilizar uma lista  de temas e datas
@@ -42,26 +59,14 @@ suas respectivas datas. Para essa tarefa deverão ser entregues:
 - Uma monografia sobre o tema
 - Uma apresentação em slides que resuma a monografia
 
+*** Notas dos Seminários e Monografias (/Msm/)
+Os Seminários e Monografias serão avaliados em uma única nota /Msm/.
+
 ** Cálculo da Nota Final
-As notas dos mini-EPs /Mmep/, dos EPs /Mep/ e dos Seminários e Monografias /Msm/ serão
-usadas no cálculo  da nota final MF.   Para ter aprovação no  curso é necessário
-ter nota final /MF >= 5.0/.
+As notas  dos mini-EPs  (/Mmep/), dos  EPs (/Mep/), e  dos Seminários  e Monografias
+(/Msm/) serão usadas no  cálculo da nota final MF.  Para ter  aprovação no curso é
+necessário ter nota final /MF >= 5.0/.
 
 A média final MF é calculada da seguinte forma:
 
 /MF = (Mm + 2Msm + 3Mep) / 6/
-
-** Médias de EPs (/Mep/)
-A média dos EPs /Mep/ é dada por:
-
-/Mep = (EP_1 + EP_2 + EP_3) / 3/
-
-** Notas dos Seminários e Monografias (/Msm/)
-Os Seminários e Monografias serão avaliados em uma única nota /Msm/.
-** Notas dos mini-EPs (/Mm/)
-Os mini-EPS têm *correção binária*, isto é, valem ou  1, ou 0.  A nota /Mm/ é a soma
-das notas dos mini-EPs, dada por:
-
-Mm = NmEP1 + ... + NmEP10
-
-Onde /NmEP(1,...,10)/ são as notas dos mini-EPs.
