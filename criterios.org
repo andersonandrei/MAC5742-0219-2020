@@ -43,31 +43,25 @@ suas respectivas datas. Para essa tarefa deverão ser entregues:
 - Uma apresentação em slides que resuma a monografia
 
 ** Cálculo da Nota Final
-As notas  dos mini-EPs ($M_{m}$),  dos EPs ($M_{EP}$)  e dos Seminários  e Monografias
-($M_{SM}$) serão  usadas no cálculo  da nota final  ($M_{F}$).  Para ter  aprovação no
-curso é necessário ter nota final $M_{F} \geq 5.0$.
+As notas dos mini-EPs /Mmep/, dos EPs /Mep/ e dos Seminários e Monografias /Msm/ serão
+usadas no cálculo  da nota final MF.   Para ter aprovação no  curso é necessário
+ter nota final /MF >= 5.0/.
 
-A média final $M_{F}$ é calculada da seguinte forma:
+A média final MF é calculada da seguinte forma:
 
-\[
-M_F = (M_{m} + 2M_{SM} + 3M_{EP})  / 6
-\]
+/MF = (Mm + 2Msm + 3Mep) / 6/
 
-** Médias de EPs ($M_{EP}$)
-A média dos EPs $M_{EP}$ é dada por:
+** Médias de EPs (/Mep/)
+A média dos EPs /Mep/ é dada por:
 
-\[
-M_{EP} = (EP_1 + EP_2 + EP_3) / 3
-\]
+/Mep = (EP_1 + EP_2 + EP_3) / 3/
 
-** Notas dos Seminários e Monografias ($M_{SM}$)
-Os Seminários e Monografias serão avaliados em uma única nota $M_{SM}$.
-** Notas dos mini-EPs ($M_{m}$)
-Os mini-EPS têm *correção binária*, isto é, valem ou $1$, ou $0$.  A nota $M_{m}$ é a
-soma das notas dos mini-EPs, dada por:
+** Notas dos Seminários e Monografias (/Msm/)
+Os Seminários e Monografias serão avaliados em uma única nota /Msm/.
+** Notas dos mini-EPs (/Mm/)
+Os mini-EPS têm *correção binária*, isto é, valem ou  1, ou 0.  A nota /Mm/ é a soma
+das notas dos mini-EPs, dada por:
 
-\[
-M_{m} = n_{mEP1} + \dots + n_{mEP10}
-\]
+Mm = NmEP1 + ... + NmEP10
 
-Onde $n_{mEP1,\dots,10}$ são as notas dos mini-EPs.
+Onde /NmEP(1,...,10)/ são as notas dos mini-EPs.
