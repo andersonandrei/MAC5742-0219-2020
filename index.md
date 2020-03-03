@@ -26,6 +26,6 @@ utilizado.  Você pode até assistir algumas das aulas gravadas em vídeo.
 
 ### Curso Atual
 
+-   [Critérios de Avaliação](criterios.html)
 -   [Aulas](./aulas.html)
 -   EPs (*em breve*)
--   [Critérios de Avaliação](criterios.html)
