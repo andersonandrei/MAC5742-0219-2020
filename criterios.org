@@ -16,25 +16,21 @@ avaliar e sugerir mudanças no curso.
 
 ** EPs
 Teremos 2 EPs, ou tarefas mais longas,  a fim de aprofundar o conteúdo discutido
-em aula.   Os EPs serão feitos  em grupos de  4 pessoas e suas  entregas deverão
+em aula.   Os EPs serão feitos  em grupos de  5 pessoas e suas  entregas deverão
 incluir:
 
 - Código fonte com a solução do problema proposto
 - Um relatório detalhando e explicando a solução e os resultados encontrados
-- Uma apresentação em slides que resuma o relatório
-
-Na data da  entrega, 5 grupos serão sorteados para  apresentar suas soluções por
-10 minutos, utilizando a apresentação em slides entregue.
 
 *** Médias de EPs (/Mep/)
 A média dos EPs /Mep/ é dada por:
 
-/Mep = (EP_1 + 2*EP_2) / 3/
+/Mep = (EP_1 + 2*EP_2)/ 3/
 
 
 ** Mini-EPs
 Teremos 3 MiniEPs, ou tarefas  menores, abordando temas recentemente discutidos
-em  aula.  Essas  tarefas também  serão realizadas  e entregues  em grupos  de 4
+em  aula.  Essas  tarefas também  serão realizadas  e entregues  em grupos  de 5
 pessoas, e deverão incluir:
 
 - Código fonte com a solução do problema proposto

@@ -14,41 +14,37 @@ avaliar e sugerir mudanças no curso.
 
 # &Iacute;ndice
 
-1.  [Método de Avaliação](#org7787bf4)
-    1.  [EPs](#org2f2841f)
-    2.  [Mini-EPs](#orgc2a34da)
-    3.  [Cálculo da Nota Final](#org4a29dd0)
+1.  [Método de Avaliação](#org3a3fb05)
+    1.  [EPs](#org9790bb0)
+    2.  [Mini-EPs](#org86dc2c3)
+    3.  [Cálculo da Nota Final](#org776fba6)
 
 
-<a id="org2f2841f"></a>
+<a id="org9790bb0"></a>
 
 ## EPs
 
 Teremos 2 EPs, ou tarefas mais longas,  a fim de aprofundar o conteúdo discutido
-em aula.   Os EPs serão feitos  em grupos de  4 pessoas e suas  entregas deverão
+em aula.   Os EPs serão feitos  em grupos de  5 pessoas e suas  entregas deverão
 incluir:
 
 -   Código fonte com a solução do problema proposto
 -   Um relatório detalhando e explicando a solução e os resultados encontrados
--   Uma apresentação em slides que resuma o relatório
-
-Na data da  entrega, 5 grupos serão sorteados para  apresentar suas soluções por
-10 minutos, utilizando a apresentação em slides entregue.
 
 
 ### Médias de EPs (*Mep*)
 
 A média dos EPs *Mep* é dada por:
 
-*Mep = (EP<sub>1</sub> + 2\*EP<sub>2</sub>) / 3*
+*Mep = (EP<sub>1</sub> + 2\*EP<sub>2</sub>)* 3/
 
 
-<a id="orgc2a34da"></a>
+<a id="org86dc2c3"></a>
 
 ## Mini-EPs
 
 Teremos 3 MiniEPs, ou tarefas  menores, abordando temas recentemente discutidos
-em  aula.  Essas  tarefas também  serão realizadas  e entregues  em grupos  de 4
+em  aula.  Essas  tarefas também  serão realizadas  e entregues  em grupos  de 5
 pessoas, e deverão incluir:
 
 -   Código fonte com a solução do problema proposto
@@ -65,7 +61,7 @@ das notas dos mini-EPs, dada por:
 Onde *NmEP(1,2 e 3)* são as notas dos mini-EPs.
 
 
-<a id="org4a29dd0"></a>
+<a id="org776fba6"></a>
 
 ## Cálculo da Nota Final
 
